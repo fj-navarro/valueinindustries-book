@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: f04ec4cd-45d0-4626-af9a-31bc5b8fdbc3
+      url: 'https://celebrated-dieffenbachia-48d315.netlify.app'
